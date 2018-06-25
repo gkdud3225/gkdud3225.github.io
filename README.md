@@ -4,34 +4,23 @@ You can use the [editor on GitHub](https://github.com/gkdud3225/gkdud3225.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### CHER-16
+[Read More](https://github.com/gkdud3225/CHER-16)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### simple-chat
+[Read More](https://github.com/gkdud3225/simple-chat)
 
-```markdown
-Syntax highlighted code block
+### SEED-128
+[Read More](https://github.com/gkdud3225/SEED-128)
 
-# Header 1
-## Header 2
-### Header 3
+### URTipsy
+[Read More](https://github.com/gkdud3225/URTipsy)
 
-- Bulleted
-- List
+### MJParty
+[Read More](https://github.com/gkdud3225/MJParty)
 
-1. Numbered
-2. List
+### web-project
+[Read More](https://github.com/gkdud3225/web-project)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gkdud3225/gkdud3225.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### BLERW
+[Read More](https://github.com/gkdud3225/BLERW)
